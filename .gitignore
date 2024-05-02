@@ -1,0 +1,10 @@
+### react ###
+.DS_*
+*.log
+**/*.backup.*
+**/*.back.*
+
+node_modules
+.idea
+.vercel
+/build
