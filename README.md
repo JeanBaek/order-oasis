@@ -25,7 +25,6 @@
     - [프로덕트](#3-프로덕트)
     - [협업/유지보수](#4-협업유지보수)
 
----
 
 ## 프로젝트 개요
 
@@ -56,14 +55,13 @@
             └── orderPreview 
 ```
 
----
 
 ## 실행
 
- ```
- npm install
- npm run start
- ```
+```
+npm install
+npm run start
+```
 
 
 ![메인 화면](./doc/result-main.png)
@@ -73,7 +71,7 @@
 이 프로젝트는 Vercel을 통해 배포되었습니다. 아래 링크를 통해 프로젝트를 확인할 수 있습니다.  
 https://order-oasis-b2dbf3ibv-jeanbaeks-projects.vercel.app/
 
----
+
 
 ## 기능
 
@@ -92,7 +90,6 @@ https://order-oasis-b2dbf3ibv-jeanbaeks-projects.vercel.app/
 - UI/UX를 고려하여 모달 중심의 UI와 최신 모바일 주문앱에 가까운 조작 방식을 적용하여 사용자 경험을 개선했습니다.
 
 
----
 
 ## 고려 사항
 
