@@ -5,6 +5,7 @@ import App from "./App";
 import enableMock from "./mock";
 
 import "./index.css";
+import "./scroll.css";
 
 enableMock();
 
