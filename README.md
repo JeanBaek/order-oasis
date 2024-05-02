@@ -69,7 +69,7 @@ npm run start
 
 ### 실시간 데모
 이 프로젝트는 Vercel을 통해 배포되었습니다. 아래 링크를 통해 프로젝트를 확인할 수 있습니다.  
-https://order-oasis-b2dbf3ibv-jeanbaeks-projects.vercel.app/
+[https://order-oasis.vercel.app/](https://order-oasis.vercel.app/)
 
 
 
