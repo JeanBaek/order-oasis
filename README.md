@@ -1,5 +1,7 @@
 # Order Oasis
-<img src="./doc/order-oasis.png" alt="서비스 로고" width="280" height="280">
+<div align="center">
+    <img src="./doc/order-oasis.png" alt="서비스 로고" width="380" height="380">
+</div>
 
 **Order Oasis**는 카페와 음식점에서 주문 처리를 지원하는 포스(POS) 서비스입니다.
 <br />
@@ -135,3 +137,13 @@ POS는 업무용 도구이고, 사용자는 밀려드는 주문을 빠르게 처
     - 포스에서 계속 사용될 데이터와 주문 마다 커스텀/갱신되어야 할 데이터를 분리하여 코드 품질 업
 - Provider Wrapper 컴포넌트를 두어 App 컴포넌트와 분리
 
+
+<br />
+<br />
+<br />
+
+<div align="right">
+    <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeanBaek%2Forder-oasis&count_bg=%23093B7D&title_bg=%23BCBCBC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    </a>
+</div>
