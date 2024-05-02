@@ -2,7 +2,11 @@ import ReactDOM from "react-dom/client";
 
 import App from "./App";
 
+import enableMock from "./mock";
+
 import "./index.css";
+
+enableMock();
 
 const rootElement = document.getElementById("root");
 
