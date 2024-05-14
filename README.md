@@ -60,7 +60,7 @@
 
 ## 실행
 
-```
+```sh
 npm install
 npm run start
 ```
